@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hugo Parada 👋
 
-- 🔭 Em busca do primeiro emprego como front-end.
-- 🌱 Estudando HTML, CSS, JAVASCRIPT e REACT.
+- 🔭 Em busca do primeiro emprego como front-end jr.
+- 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT e REACT.
 - 💬 Telefone para contato: (21)96505-5544
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 - 😄 Pronouns: ele/dele
