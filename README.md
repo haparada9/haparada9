@@ -1,12 +1,11 @@
 ### Olá, eu sou o Hugo Parada 👋
 
-- 🔭 Em busca do primeiro emprego como front-end jr.
+- 🔭 Em busca do primeiro emprego como full-stack jr.
 - 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT e REACT.
-- 💬 Telefone para contato: (21)96505-5544
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 - 😄 Pronouns: ele/dele
 
-##
+![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
 
 <div align="center">
   <a href="https://github.com/haparada9">
@@ -21,7 +20,7 @@
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
   
-  ##
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
   
   <div> 
   <a href="https://www.instagram.com/haparada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
