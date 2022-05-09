@@ -3,7 +3,7 @@
 - 🔭 Em busca do primeiro emprego como full-stack jr.
 - 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT e REACT.
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
 
