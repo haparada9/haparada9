@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hugo Parada 👋
 
-- 🔭 Em busca do primeiro emprego como full-stack jr.
-- 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT e REACT.
+- 🔭 Em busca do primeiro emprego como full-stack jr
+- 🌱 Atualmente estudando HTML5, CSS3, JAVASCRIPT e REACT.JS
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 
 
