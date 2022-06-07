@@ -4,7 +4,7 @@
 - 📝 Me indentifico mais com Front-End.
 - 📚 Bootcamp Full-Stack Developer na DIO.
 - 🔭 Em busca do primeiro emprego como full-stack jr.
-- 🌱 Atualmente estudando JAVASCRIPT, REACT.JS e NEXT.JS
+- 🌱 Atualmente estudando JAVASCRIPT e REACT.JS.
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 
 
