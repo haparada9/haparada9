@@ -1,8 +1,7 @@
 ### Olá, eu sou o Hugo Parada 👋
 
 - 🎉 Formado na Resilia Educação como Desenvolvedor Web Full-Stack Júnior.
-- 📝 Me indentifico mais com Front-End.
-- 📚 Bootcamp Full-Stack Developer na DIO.
+- 📚 Participando do Bootcamp Full-Stack Developer na DIO.
 - 🔭 Em busca do primeiro emprego como full-stack jr.
 - 🌱 Atualmente estudando JAVASCRIPT e REACT.JS.
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
