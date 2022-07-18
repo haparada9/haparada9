@@ -3,7 +3,7 @@
 - 🎉 Formado na Resilia Educação como Desenvolvedor Web Full-Stack Júnior.
 - 📚 Participando do Bootcamp Full-Stack Developer na DIO.
 - 🔭 Em busca do primeiro emprego como full-stack jr.
-- 🌱 Atualmente estudando JAVASCRIPT, NODE.JS, NEST.JS.
+- 🌱 Atualmente estudando JAVASCRIPT, NODE.JS e NEST.JS.
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 
 
