@@ -2,7 +2,7 @@
 
 - 🎉 Formado na Resilia Educação como Desenvolvedor Web Full Stack Júnior.
 - 📚 Cursando o ensino superior em Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida.
-- 🔭 Em busca do primeiro emprego como full stack jr / Front end jr / Back end jr.
+- 🔭 Em busca do primeiro emprego como estagiário em análise e desenvolvimento de sistemas / full stack jr / Front end jr / Back end jr.
 - 🌱 Atualmente estudando JAVASCRIPT, C, C++ e C#.
 - 📫 Contate-me no e-mail: ha.parada9@gmail.com
 
